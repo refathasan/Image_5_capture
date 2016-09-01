@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Img</string>
+
+    <string-array name="cameraOption">
+        <item>Capture Image</item>
+        <item>Delete Image</item>
+    </string-array>
+</resources>
